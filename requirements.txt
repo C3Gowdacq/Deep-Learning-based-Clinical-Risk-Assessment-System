@@ -1,0 +1,11 @@
+torch
+numpy 
+pandas
+scikit-learn
+fastapi
+uvicorn
+streamlit
+shap
+pydantic
+matplotlib
+reportlab
